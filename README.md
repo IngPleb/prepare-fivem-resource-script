@@ -22,9 +22,9 @@ cd prepare-fivem-resource-script
 chmod +x prepare-fivem-resource.sh
 ```
 
-### 3. Move Script to `~/bin/`
+### 3. Move Script to `usr/local/bin/`
 ```bash
-mv prepare-fivem-resource.sh ~/bin/prepare-fivem-resource
+mv prepare-fivem-resource.sh /usr/local/bin/prepare-fivem-resource
 ```
 
 ## Usage
