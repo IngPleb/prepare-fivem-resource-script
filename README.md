@@ -33,5 +33,8 @@ mv prepare-fivem-resource.sh /usr/local/bin/prepare-fivem-resource
 prepare-fivem-resource <path-to-folder-with-resource>
 ```
 
+> NOTE:
+> The same order of operations goes for the new script count-lines.sh
+
 ## Reason For Existence
 *I have created this script to save time when uploading resources to KeyMaster. I have made many revisions and update to private resources and executing these commands one by one became tedious so I made this*
